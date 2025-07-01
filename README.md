@@ -1,4 +1,4 @@
-# 🔧 Control de Motor DC con Encoder y Cambio de Giro por LABVIEW
+# 🔧 Control de Motor DC con Encoder y Cambio de Giro a traves de LABVIEW
 
 Proyecto desarrollado por **Jersson Oswaldo Sierra** y **Juan David Sotelo Rozo**  
 Este sistema permite controlar un motor DC mediante comandos seriales, medir su velocidad usando un encoder, y cambiar el sentido de giro con un botón físico.
